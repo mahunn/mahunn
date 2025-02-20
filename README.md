@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mahin Ahmad</h1>
-<h3 align="center">Computer Science Engineer</h3>
 
 - 🔭 I’m currently working on **SpaceInvaders**
 
